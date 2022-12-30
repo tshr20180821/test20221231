@@ -4,3 +4,4 @@ FROM node:18.12.1
 
 COPY package.json ./
 RUN yarn install --non-interactive
+RUN cat ./yarn.lock
