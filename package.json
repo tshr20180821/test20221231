@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "*".
+    "express": "*",
     "jquery": "*",
     "jsdom": "*",
     "node-cron": "*"
