@@ -1,0 +1,12 @@
+{
+  "name": "node-js-test",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "eslint": "*",
+    "jquery": "*",
+    "jsdom": "*",
+    "node-cron": "*"
+  }
+}
