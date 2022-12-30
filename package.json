@@ -3,8 +3,11 @@
   "engines": {
     "node": "18.x"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "eslint": "*",
+    "express": "*".
     "jquery": "*",
     "jsdom": "*",
     "node-cron": "*"
